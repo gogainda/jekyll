@@ -24,6 +24,7 @@ jobs:
         - 2.7
         - 3.0
         - jruby-9.2.14.0
+        - trufflerubh-head
 
     steps:
     - uses: actions/checkout@v2
